@@ -1,0 +1,140 @@
+body{
+    margin: 0;
+    padding: 0%;
+    text-align: center;
+}
+nav{
+    background-color: blueviolet;
+    height: 10vh;
+    padding: 10px;
+    color: white;
+    font-weight: bolder;
+    font-size: large;
+}
+
+main{
+    height: 65vh;
+    padding: 20px;
+    background-color: wheat;
+}
+textarea{
+    display: block;
+    width: 80vw;
+    height: 20vh;
+    padding: 10px;
+    margin: auto;
+    font-size: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+#btn-translate{
+    background-color: blueviolet;
+    color: white;
+    font-size: 1.5rem;
+    margin-top: 15px;
+    padding: 10px 25px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+#output{
+    display: block;
+    border: 1px solid black;
+    width: 80vw;
+    height: 20vh;
+    padding: 15px;
+    margin: auto;
+    color: green;
+    font-weight: bolder;
+    font-size: 1rem;
+    font-family:cursive;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    overflow-y:auto;
+}
+
+footer{
+    background-color: blueviolet;
+    color: white;
+    height: 15vh;
+    padding: 12px;
+
+}
+#footer-heading{
+    font-size: xx-large;
+
+}
+footer p{
+    padding-bottom: 10px;
+}
+
+ /* body{
+    font-family: 'Noto Serif', serif;
+    background: #acb6e5;
+    background: -webkit-linear-gradient(to right, #86fde8, #acb6e5);
+    background: linear-gradient(to right, #86fde8, #acb6e5);
+    margin: 0;
+    padding: 0;
+
+}
+#heading{
+    text-align: center;
+    background: #CAC531;
+    margin-top: 0;
+    padding: 20px;
+    background: -webkit-linear-gradient(to right, #F3F9A7, #CAC531);
+    background: linear-gradient(to right, #F3F9A7, #CAC531);
+}
+textarea{
+    display: block;
+    width: 80%;
+    height: 20vh;
+    overflow-y: scroll;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 20px;
+    font-size: 1.2em;
+}
+#btn-translate{
+    display: block;
+    margin: auto;
+    font-size: 20px;
+    color: aliceblue;
+    padding: 10px;
+    background-color: green;
+    border-radius: 70%;
+
+}
+#btn-translate:hover{
+    background-color: red;
+}
+#output{
+    border: 1px solid black;
+    height: 16vh;
+    overflow-y: scroll;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    background: #CAC531;
+    background: -webkit-linear-gradient(to right, #F3F9A7, #CAC531);
+    background: linear-gradient(to right, #F3F9A7, #CAC531);
+    width: 100vw;
+}
+#footer-heading {
+    text-align: center;
+    padding-top: 1rem;
+    font-size: 2rem ;
+}
+footer p {
+    text-align: center;
+    max-width: 60%;
+    margin: auto;
+    padding-bottom: 1rem;
+} */ 
